@@ -61,5 +61,44 @@
       "name": "Relayer One",
       "url": "https://wormhole-v2-mainnet-relayer.certus.one"
     }
-  ]
+  ],
+  "feeSchedule": {
+    "1": {
+      "type": "flat",
+      "feeUsd": 2
+    },
+    "2": {
+      "type": "percent",
+      "feePercent": 1.25,
+      "gasEstimate": 280000
+    },
+    "3": {
+      "type": "flat",
+      "feeUsd": 2
+    },
+    "4": {
+      "type": "flat",
+      "feeUsd": 2
+    },
+    "5": {
+      "type": "flat",
+      "feeUsd": 0.5
+    },
+    "6": {
+      "type": "flat",
+      "feeUsd": 2
+    },
+    "7": {
+      "type": "flat",
+      "feeUsd": 0.5
+    },
+    "9": {
+      "type": "flat",
+      "feeUsd": 0.5
+    },
+    "10": {
+      "type": "flat",
+      "feeUsd": 0.5
+    }
+  }
 }
