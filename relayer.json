@@ -99,6 +99,14 @@
     "10": {
       "type": "flat",
       "feeUsd": 0.5
+    },
+    "13": {
+      "type": "flat",
+      "feeUsd": 0.5
+    },
+    "14": {
+      "type": "flat",
+      "feeUsd": 0.5
     }
   }
 }
