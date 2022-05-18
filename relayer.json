@@ -54,6 +54,16 @@
       "chainId": 10,
       "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
       "coingeckoId": "fantom"
+    },
+    {
+      "chainId": 13,
+      "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+      "coingeckoId": "klay-token"
+    },
+    {
+      "chainId": 14,
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "coingeckoId": "celo"
     }
   ],
   "relayers": [
